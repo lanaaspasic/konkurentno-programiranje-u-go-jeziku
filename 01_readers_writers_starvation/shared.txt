@@ -1,0 +1,6 @@
+Pisac 2 (Starve) upisuje krug 0
+Pisac 1 (Starve) upisuje krug 0
+Pisac 2 (Starve) upisuje krug 1
+Pisac 1 (Starve) upisuje krug 1
+Pisac 2 (Starve) upisuje krug 2
+Pisac 1 (Starve) upisuje krug 2

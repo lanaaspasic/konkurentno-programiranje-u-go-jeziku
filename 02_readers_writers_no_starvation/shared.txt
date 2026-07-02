@@ -1,0 +1,6 @@
+Pisac 2 (No-Starve) piše 0
+Pisac 1 (No-Starve) piše 0
+Pisac 2 (No-Starve) piše 1
+Pisac 1 (No-Starve) piše 1
+Pisac 2 (No-Starve) piše 2
+Pisac 1 (No-Starve) piše 2
