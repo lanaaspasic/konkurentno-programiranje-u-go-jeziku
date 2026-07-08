@@ -64,15 +64,6 @@ func (rc *RiverCrossing) Serf(id int) {
 		rc.serfs = 0
 		isCaptain = true
 	} else if rc.serfs == 2 && rc.hackers >= 2 {
-		for i := 0; i < 2; i++ {
-			rc.serfQueue <- struct{}{}
-		}
-		for i := 0; i < 2; i++ {
-			rc.serfQueue <- struct{}{}
-		}
-		for i := 0; i < 2; i++ {
-			rc.hackerQueue <- struct{}{}
-		}
 		rc.serfQueue <- struct{}{}
 		rc.serfQueue <- struct{}{}
 		rc.hackerQueue <- struct{}{}
